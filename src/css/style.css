@@ -101,10 +101,10 @@ a.wordmark:hover {
 }
 
 .external-links a {
+  border: 0;
   color: deeppink;
   display: block;
   padding: .25rem .5rem;
-  text-decoration: none;
   transition: .1s ease-in-out;
 }
 
